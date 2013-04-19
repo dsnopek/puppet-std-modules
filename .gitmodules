@@ -1,0 +1,24 @@
+[submodule "apt"]
+	path = apt
+	url = git://git.koumbit.net/puppet-apt.git
+[submodule "drush"]
+	path = drush
+	url = http://git.drupal.org/project/puppet-drush.git
+[submodule "common"]
+	path = common
+	url = git://labs.riseup.net/shared-common
+[submodule "aegir"]
+	path = aegir
+	url = git://github.com/dsnopek/puppet-aegir.git
+[submodule "stdlib"]
+	path = stdlib
+	url = git://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "mysql"]
+	path = mysql
+	url = git://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "backup"]
+	path = backup
+	url = git://github.com/dsnopek/puppet-backup.git
+[submodule "vcsrepo"]
+	path = vcsrepo
+	url = git://github.com/puppetlabs/puppetlabs-vcsrepo.git
