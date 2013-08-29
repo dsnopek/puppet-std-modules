@@ -22,3 +22,6 @@
 [submodule "vcsrepo"]
 	path = vcsrepo
 	url = git://github.com/puppetlabs/puppetlabs-vcsrepo.git
+[submodule "serverdensity"]
+	path = serverdensity
+	url = https://github.com/serverdensity/puppet-serverdensity.git
