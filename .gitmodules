@@ -9,7 +9,7 @@
 	url = git://labs.riseup.net/shared-common
 [submodule "aegir"]
 	path = aegir
-	url = https://github.com/dsnopek/puppet-aegir.git
+	url = http://git.drupal.org/project/puppet-aegir.git
 [submodule "stdlib"]
 	path = stdlib
 	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
